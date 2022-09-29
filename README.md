@@ -1,10 +1,10 @@
 # Spring-Data-JPA-Paging-Sort-Example-Springboot
-In this Demo  I have shown how to sort the records and do the pagination in SPring DATA JPA - Rest API
+In this video, I have discussed how to sort rest api and implement pagination using Spring Data JPA with SpringBoot. I have explained with live working code example.
 
 Instruction
 Download and extract the files Java 8 Spring Boot 2.1.1 (with Spring Data JPA) H2 (embedded in Memory database) Maven 3.8.1
 
-Youtube Video with Explanation : https://youtu.be/G9oOidw_oKA
+Youtube Video with Explanation : https://youtu.be/bbVhdSlt9vQ
 – For MySQL:
 
 spring.datasource.url= jdbc:mysql://localhost:3306/testdb?useSSL=false spring.datasource.username= root spring.datasource.password= 123456
